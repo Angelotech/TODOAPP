@@ -1,6 +1,5 @@
 # TODOAPP
-Repositório do projeto todoAPP, promovido pela Capgemini do curso logica da programação part.3
-
+Repositório do projeto todoAPP, promovido pela Capgemini do curso logica da programação part3
 
 Definição:
  
@@ -21,10 +20,8 @@ Regras de negócio:
 	- Não podem haver tags repetidas numa mesma tarefa	
 	
 Projeto:
-![Captura de tela_20230131_213916](https://user-images.githubusercontent.com/92264807/215923719-fc78d667-f3c9-4e80-b7e2-bdd806cc6129.png)
 
-	- Nome![Captura de tela_20230131_213916](https://user-images.githubusercontent.com/92264807/215923758-022e4249-b14f-40ad-8b6e-3418c29e3e9b.png)
-
+	- Nome
 	- Tarefas 
 	- Dados de Criação
 	- Dados de atualização
@@ -37,4 +34,13 @@ Tarefa:
 	- Observações
 	- Prazo
 	- Dados de Criação
+
+
+
+![add projetos](https://user-images.githubusercontent.com/92264807/215924242-6d442909-0e96-420b-a6fa-2b68bb54c0fe.png)
+
+![add tarefas](https://user-images.githubusercontent.com/92264807/215924370-53f3feb8-c813-45a9-bd61-5774b8956a41.png)
+
+![tela final do projeto](https://user-images.githubusercontent.com/92264807/215924466-4875e917-84a2-4f64-a530-f67f1cdc1a60.png)
+
 
